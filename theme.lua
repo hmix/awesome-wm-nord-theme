@@ -21,8 +21,8 @@ theme.font      = "Play 9"
 theme.fg_normal  = "#ECEFF4"
 theme.fg_focus   = "#88C0D0"
 theme.fg_urgent  = "#D08770"
-theme.bg_normal  = "#3B4252"
-theme.bg_focus   = "#2E3440"
+theme.bg_normal  = "#2E3440"
+theme.bg_focus   = "#3B4252"
 theme.bg_urgent  = "#3B4252"
 theme.bg_systray = theme.bg_normal
 -- }}}
